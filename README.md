@@ -11,6 +11,10 @@ What happens when someone with firsthand experience in cyber defense, informatio
 
 Too often, the answer is: **they are ignored, dismissed, or worse—labeled unwell**.
 
+ -- [Download PDF](./Who_Watches_the_Watchers.pdf)
+ -- Full context of conversation posted and made public [here](https://chatgpt.com/share/686f26cb-ce9c-8000-9dfa-c539ffb08869)
+
+
 ## The Paradox of Awareness
 
 There’s a cruel paradox at play:  
