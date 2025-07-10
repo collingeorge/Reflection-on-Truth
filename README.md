@@ -55,3 +55,8 @@ We do not need fewer people who see clearly. We need better systems that can **l
 To live in the digital age is to live with layers of war, manipulation, and complexity that many systems—including clinical ones—were never designed to face.
 
 But if we begin to ask the right questions—*without shame, without fear, and without apology*—we can build new frameworks of care and understanding. Ones that honor insight rather than punish it. Ones that watch the watchers—and remind them what their responsibility really is.
+
+## Credits
+
+Created with the assistance of [OpenAI](https://openai.com) and [ChatGPT](https://chat.openai.com), for automation, formatting, and research, published [here](https://chatgpt.com/share/686f26cb-ce9c-8000-9dfa-c539ffb08869)
+
