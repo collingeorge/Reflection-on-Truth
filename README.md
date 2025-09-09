@@ -36,16 +36,16 @@ These forces drive patient and societal behaviors, yet clinicians often lack the
 We need systems that listen, not label. Here’s how:
 
 **Enhance Clinical Training**  
-Mandate digital literacy and cyberpsychology in mental health training. Stanford’s 2024–2025 Digital Health grants fund clinician training on tech-driven concerns [](https://digitalhealth.stanford.edu/pilot-grants).
+Mandate digital literacy and cyberpsychology in mental health training. Stanford’s 2024–2025 Digital Health grants fund clinician training on tech-driven concerns [link](https://digitalhealth.stanford.edu/pilot-grants).
 
 **Bridge Knowledge Gaps**  
-Universities like Cambridge’s Centre for Geopolitics blend tech and behavior studies—scale this globally [](https://www.geopolitics.cam.ac.uk/).
+Universities like Cambridge’s Centre for Geopolitics blend tech and behavior studies—scale this globally [link](https://www.geopolitics.cam.ac.uk/).
 
 **Audit Power Structures**  
 Independent oversight boards, like the EU’s Digital Services Act (2022, [link](https://eur-lex.europa.eu/eli/reg/2022/2065/oj)), must audit algorithms and surveillance.
 
 **Support Whistleblowers**  
-Fund groups like the Government Accountability Project [](https://whistleblower.org/) to protect insiders raising alarms.
+Fund groups like the Government Accountability Project [link](https://whistleblower.org/) to protect insiders raising alarms.
 
 ## Practical Recommendations
 - 10-hour digital literacy modules in psychiatry residencies.
