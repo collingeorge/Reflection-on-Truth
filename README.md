@@ -66,4 +66,4 @@ We don’t need fewer people seeing power’s hidden gears—we need systems tha
 - Government Accountability Project. [link](https://whistleblower.org/)
 
 ## About
-A Reflection on Truth, Power, and Misdiagnosed Insight. [Download full whitepaper](reflection-on-truth.pdf).
+A Reflection on Truth, Power, and Misdiagnosed Insight. [Download full whitepaper](Who_Watches_the_Watchers.pdf).
