@@ -3,7 +3,7 @@
 
 In an era where warfare extends beyond bullets to algorithms, disinformation, and psychological operations, the battlefield is perception itself. Cybersecurity threats, social media manipulation, and AI biases shape our world invisibly. Professionals like cybersecurity experts, intelligence analysts, AI ethicists, and physicians see these patterns—yet when they speak up, they’re often dismissed or labeled unwell.
 
-This isn’t personal failure; it’s a systemic gap with stakes for healthcare, tech, and society. We need frameworks that amplify insight, not silence it. [Download the full whitepaper](reflection-on-truth.pdf) for a deeper dive.
+This isn’t personal failure; it’s a systemic gap with stakes for healthcare, tech, and society. We need frameworks that amplify insight, not silence it. [Download the full whitepaper](Who_Watches_the_Watchers.pdf) for a deeper dive.
 
 ## The Paradox of Awareness
 
