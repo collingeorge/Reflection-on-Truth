@@ -45,7 +45,7 @@ Universities like Cambridge’s Centre for Geopolitics blend tech and behavior s
 Independent oversight boards, like the EU’s Digital Services Act (2022, [link](https://eur-lex.europa.eu/eli/reg/2022/2065/oj)), must audit algorithms and surveillance.
 
 **Support Whistleblowers**  
-Fund groups like the Government Accountability Project [link](https://whistleblower.org/) to protect insiders raising alarms.
+Fund groups like the Government Accountability Project ([link](https://whistleblower.org/)) to protect insiders raising alarms.
 
 ## Practical Recommendations
 - 10-hour digital literacy modules in psychiatry residencies.
